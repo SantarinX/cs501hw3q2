@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cards xmlns:android="http://schemas.android.com/apk/res/android">
+    <card>
+        <question>What is the capital of France?</question>
+        <answer>Paris</answer>
+    </card>
+    <card>
+        <question>What is 5 + 3?</question>
+        <answer>8</answer>
+    </card>
+    <card>
+        <question>Who wrote 'Romeo and Juliet'?</question>
+        <answer>William Shakespeare</answer>
+    </card>
+    <card>
+        <question>What is the chemical symbol for water?</question>
+        <answer>H2O</answer>
+    </card>
+    <card>
+        <question>Which planet is known as the Red Planet?</question>
+        <answer>Mars</answer>
+    </card>
+</cards>
